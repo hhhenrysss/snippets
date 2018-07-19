@@ -1,0 +1,12 @@
+[
+  {
+    "description": "Vertical bar with fading effects using background properties",
+    "keywords": ["bar", "fading effects", "background"],
+    "code": "background-image: radial-gradient(farthest-corner, #AED6F1, white 80%);background-position: right;background-repeat: no-repeat;background-size: 0.1em 100%;"
+  },
+  {
+    "description": "box-shadow on all sides",
+    "keywords": ["box-shadow"],
+    "code": "box-shadow: 0 0 0.5em #D8DADA;"
+  }
+]
