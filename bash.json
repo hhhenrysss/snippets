@@ -1,0 +1,5 @@
+{
+    "description": "loop through all directories",
+    "keywords": ["loop", "directory"],
+    "code": "for dir in *; do if [[ -d $dir ]] then #do something; fi; done"
+}
